@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@laylazi/bootstrap-rtl": "^4.6.0-1",
     "boostrap": "^2.0.0",
     "css-loader": "^5.2.2",
+    "expose-loader": "^2.0.0",
     "file-loader": "^6.2.0",
     "html-loader": "^1.3.2",
     "html-webpack-plugin": "^5.3.1",
